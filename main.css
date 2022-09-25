@@ -97,7 +97,7 @@
     animation-fill-mode: forwards;
     animation-name: fade;
     animation-delay: 0s;
-    animation-duration: 550ms;
+    animation-duration: 500ms;
   }
   @media(hover: hover) {
     .hover {
